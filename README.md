@@ -1,2 +1,1 @@
-# Aquacam
-playing with flask.
+# AquaPiCam
